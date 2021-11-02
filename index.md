@@ -1,4 +1,7 @@
 
+## Research interests
+Machine learning, Artificial intelligence in education
+
 ## Research advisor
 Dr. Chandrashekar Lakshminarayanan,
 Assistant Professor,
