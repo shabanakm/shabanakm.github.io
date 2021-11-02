@@ -9,17 +9,6 @@ Department of CSE,
 IIT Madras
 [[Homepage]](https://sites.google.com/view/chandrashekar-lakshminarayanan)
 
-## Education
-
-- **PhD**: IIT Palakkad (_2019_ - )
-- **M.Tech**: NIT Calicut (_2011 - 2013_)
-- **B.Tech**: Amrita School of Engineering, Kollam (_2007 - 2011_)
-
-## Experience
-- **Research and Development Engineer**, **Flytxt**, (_June 2013 - December 2016_)
-
-Worked on projects related to customer segmentation in telecom domain and developed  novel algorithms for performing automatic intelligent grouping of subscribers. Designed interesting visualizations for leveraging value out of large structured/ unstructured data sources, which were later added to the visualization dashboard of the company's product
-
 ## Publications
 
 1. **Shabana, K. M.**, Nazeer, K. A., Pradhan, M., & Palakal, M. (2015). A computational method for drug repositioning using publicly available gene expression data. BMC bioinformatics, 16(17), S5. [[Paper]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-16-S17-S5) _Won the best paper award at IEEE 4th International Conference on Computational Advances in Bio and Medical Sciences (ICCABS), 2014_
@@ -41,6 +30,20 @@ Worked on projects related to customer segmentation in telecom domain and develo
 
 ## Patent
 - Systems and methods for management of multi-perspective customer segments [US Patent 10,936,620, 2021](https://patents.google.com/patent/US10936620B2)
+
+## Work experience
+#### **Research and Development Engineer**, **Flytxt**, (_June 2013 - December 2016_)
+- Worked on projects related to customer segmentation in telecom domain and developed  novel algorithms for performing automatic intelligent grouping of subscribers. Designed interesting visualizations for leveraging value out of large structured/ unstructured data sources, which were later added to the visualization dashboard of the company's product
+
+## Education
+
+- **PhD**: IIT Palakkad (_2019_ - )
+- **M.Tech**: NIT Calicut (_2011 - 2013_)
+- **B.Tech**: Amrita School of Engineering, Kollam (_2007 - 2011_)
+
+
+
+
 
 
 
