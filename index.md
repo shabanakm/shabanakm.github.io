@@ -32,12 +32,12 @@ Worked on projects related to customer segmentation in telecom domain and develo
 ## Honors and Awards
 
 - Prime Minister's Research Fellow (PMRF May 2020 lateral entry scheme)
+- First prize winner in the First Teaching Challenge on introductory programming organized by ACM iSIGCSE [[Video]](https://www.youtube.com/watch?v=UFDV_EvYwmw)
 - Won the second prize in ACM Compute 2021 teaching challenge organized by ACM iSIGCSE
 - Won the Ada Lovelace best outgoing girl student award for the year 2010 at A2CWiC: Amrita ACM-W Celebration on Women in Computing in India
 - Software Design National Finalist at Microsoft Imagine Cup 2010
 - Data Challenge Finalist at ACM IKDD CoDS 2016
 - Won the Collaboration Award at Flytxt for demonstrating good team work towards achieving the company's objectives
-- First prize winner in the First Teaching Challenge on introductory programming organized by ACM iSIGCSE [[Video]](https://www.youtube.com/watch?v=UFDV_EvYwmw)
 
 ## Patent
 - Systems and methods for management of multi-perspective customer segments [US Patent 10,936,620, 2021](https://patents.google.com/patent/US10936620B2)
