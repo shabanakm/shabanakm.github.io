@@ -1,6 +1,34 @@
-## Shabana K M
 
-I am a PhD student
+### Research advisor
+Dr. Chandrashekar Lakshminarayanan,
+Assistant Professor,
+Department of CSE,
+IIT Madras
+[[Homepage]](https://sites.google.com/view/chandrashekar-lakshminarayanan)
+
+### Publications
+
+1. **Shabana, K. M.**, Nazeer, K. A., Pradhan, M., & Palakal, M. (2015). A computational method for drug repositioning using publicly available gene expression data. BMC bioinformatics, 16(17), S5. [[Paper]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-16-S17-S5) _Won the best paper award at IEEE 4th International Conference on Computational Advances in Bio and Medical Sciences (ICCABS), 2014_
+
+2. **Shabana, K. M.**, & Wilson, J. (2015, May). A novel method for automatic discovery, annotation and interactive visualization of prominent clusters in mobile subscriber datasets. In 2015 IEEE 9th International Conference on Research Challenges in Information Science (RCIS) (pp. 127-132). IEEE.
+[[Paper]](https://ieeexplore.ieee.org/document/7128872/?tp=&arnumber=7128872)
+
+3. **Shabana, K. M.**, Wilson, J., & Chaudhury, S. (2016, August). A multi-view non-parametric clustering approach to mobile subscriber segmentation. In 2016 IEEE 18th Conference on Business Informatics (CBI) (Vol. 1, pp. 173-181). IEEE. [[Paper]](https://ieeexplore.ieee.org/abstract/document/7780312)
+
+### Honors and Awards
+
+- Prime Minister's Research Fellow (PMRF May 2020 lateral entry scheme)
+- Won the second prize in ACM Compute 2021 teaching challenge organized by ACM iSIGCSE
+- Won the Ada Lovelace best outgoing girl student award for the year 2010 at A2CWiC: Amrita ACM-W Celebration on Women in Computing in India
+- Software Design National Finalist at Microsoft Imagine Cup 2010
+- Data Challenge Finalist at ACM IKDD CoDS 2016
+- Won the Collaboration Award at Flytxt for demonstrating good team work towards achieving the company's objectives
+- First prize winner in the First Teaching Challenge on introductory programming organized by ACM iSIGCSE [[Video]](https://www.youtube.com/watch?v=UFDV_EvYwmw)
+
+### Patent
+- Systems and methods for management of multi-perspective customer segments [US Patent 10,936,620, 2021](https://patents.google.com/patent/US10936620B2)
+
+
 
 
 ## 
