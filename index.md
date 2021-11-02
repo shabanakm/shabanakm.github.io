@@ -9,6 +9,17 @@ Department of CSE,
 IIT Madras
 [[Homepage]](https://sites.google.com/view/chandrashekar-lakshminarayanan)
 
+## Education
+
+- **PhD**: IIT Palakkad (_2019_ - )
+- **M.Tech**: NIT Calicut (_2011 - 2013_)
+- **B.Tech**: Amrita School of Engineering, Kollam (_2007 - 2011_)
+
+## Experience
+- **Research and Development Engineer**, **Flytxt**, (_June 2013 - December 2016_)
+
+Worked on projects related to customer segmentation in telecom domain and developed  novel algorithms for performing automatic intelligent grouping of subscribers. Designed interesting visualizations for leveraging value out of large structured/ unstructured data sources, which were later added to the visualization dashboard of the company's product
+
 ## Publications
 
 1. **Shabana, K. M.**, Nazeer, K. A., Pradhan, M., & Palakal, M. (2015). A computational method for drug repositioning using publicly available gene expression data. BMC bioinformatics, 16(17), S5. [[Paper]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-16-S17-S5) _Won the best paper award at IEEE 4th International Conference on Computational Advances in Bio and Medical Sciences (ICCABS), 2014_
@@ -38,15 +49,7 @@ IIT Madras
 
 
 
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/shabanakm/shabanakm.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -64,14 +67,3 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shabanakm/shabanakm.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
