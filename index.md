@@ -1,4 +1,3 @@
-# Shabana K M
 
 ## Research advisor
 Dr. Chandrashekar Lakshminarayanan,
