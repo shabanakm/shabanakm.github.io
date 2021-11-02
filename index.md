@@ -1,5 +1,4 @@
-<title>Shabana K M</title>
-Doctoral research scholar at IIT Palakkad
+#Shabana K M
 
 ## Research advisor
 Dr. Chandrashekar Lakshminarayanan,
