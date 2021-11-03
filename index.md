@@ -32,7 +32,7 @@ IIT Madras
 - Won the Collaboration Award at Flytxt for demonstrating good team work towards achieving the company's objectives
 
 ## Patent
-- Systems and methods for management of multi-perspective customer segments [US Patent 10,936,620, 2021](https://patents.google.com/patent/US10936620B2) (First inventor)
+- Systems and methods for management of multi-perspective customer segments [US Patent 10,936,620, 2021](https://patents.google.com/patent/US10936620B2) (_**First inventor**_)
 
 ## Work experience
 #### **Research and Development Engineer**, **Flytxt**, (_June 2013 - December 2016_)
