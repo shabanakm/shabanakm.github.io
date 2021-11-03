@@ -40,8 +40,8 @@ IIT Madras
 
 ## Education
 
-- **PhD**: IIT Palakkad (_2019_ - )
-- **M.Tech**: NIT Calicut (_2011 - 2013_)
+- **PhD**: Indian Institute of Technology Palakkad (_2019_ - )
+- **M.Tech**: National Insititue of Technology Calicut (_2011 - 2013_)
 - **B.Tech**: Amrita School of Engineering, Kollam (_2007 - 2011_)
 
 ## Contact
