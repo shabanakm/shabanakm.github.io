@@ -1,6 +1,9 @@
-
 ## Research interests
 Machine learning, Artificial intelligence in education
+
+## Ongoing research work
+#### _Generating personalized sequence of learning content based on a curriculum graph_
+One of the significant drawbacks of the current mode of teaching is the lack of personalization - the same course material is delivered to a large population of students regardless of their abilities and learning speed. This 'one-size-fits-all' strategy of content delivery does not cater to the learners' individual learning needs and the quality of education thus takes a hit. In this work we propose a reinforcement learning based tutoring model that helps a student to master a curriculum by adaptively sequencing learning content based on the student's learning curve. The model uses a curriculum graph, that represents the prerequisite relationships between various topics, to determine the next best topic to be offered to the student for practice. Our model has demonstrated better performance than some of the existing tutoring algorithms in simulations. The model has demonstrated superior performance in scenarios where a student struggles to learn a topic.
 
 ## Research advisor
 Dr. Chandrashekar Lakshminarayanan,
@@ -29,7 +32,7 @@ IIT Madras
 - Won the Collaboration Award at Flytxt for demonstrating good team work towards achieving the company's objectives
 
 ## Patent
-- Systems and methods for management of multi-perspective customer segments [US Patent 10,936,620, 2021](https://patents.google.com/patent/US10936620B2)
+- Systems and methods for management of multi-perspective customer segments [US Patent 10,936,620, 2021](https://patents.google.com/patent/US10936620B2) (First inventor)
 
 ## Work experience
 #### **Research and Development Engineer**, **Flytxt**, (_June 2013 - December 2016_)
@@ -41,32 +44,6 @@ IIT Madras
 - **M.Tech**: NIT Calicut (_2011 - 2013_)
 - **B.Tech**: Amrita School of Engineering, Kollam (_2007 - 2011_)
 
+## Contact
 
-
-
-
-
-
-
- 
-
-
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+111914007 [at] smail [dot] iitpkd [dot] ac [dot] in
