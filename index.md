@@ -4,7 +4,8 @@ I am a PhD research scholar in the department of Computer Science and Engineerin
 [<img src="images/linkedin_logo.png" width="30" height="30">](https://www.linkedin.com/in/shabana-k-m/)
 &nbsp;
 [<img src="images/scholar_logo.png" width="30" height="30">](https://scholar.google.com/citations?user=EEQU31YAAAAJ&hl=en/)
-&[**CV**](Shabana_Resume.pdf)
+&nbsp;
+[<img src="images/CV_logo.png" width="30" height="30">](Shabana_Resume.pdf)
 
 ## Research interests
 - Machine learning
