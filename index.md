@@ -58,6 +58,8 @@ IIT Madras
 - **Chief resource person at [Internzone - Introduction to Machine Learning](http://www.gecskp.ac.in/pdf/news/Internzone_Introduction_to_ML.pdf)**  
   IEEE Kerala Section  
   (_August 2021 - December 2021_)
+  
+  Conducted weekly one-hour sessions on basic machine learning algorithms, as a part of PMRF teaching requirements. Designed and delivered the course content as well as prepared weekly quizzes and programming assignments.
 
 
 
