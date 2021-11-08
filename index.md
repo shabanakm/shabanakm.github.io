@@ -1,3 +1,10 @@
+## About me
+I am a PhD research scholar in the department of Computer Science and Engineering at Indian Institute of Technology Palakkad. My research work currently focuses on enhancing the quality of human learning thorugh artificial intelligence.
+
+[<img src="images/linkedin_logo.png" width="30" height="30">](https://www.linkedin.com/in/shabana-k-m/)
+&nbsp;
+[<img src="images/scholar_logo.png" width="30" height="30">](https://scholar.google.com/citations?user=EEQU31YAAAAJ&hl=en/)
+
 ## Research interests
 - Machine learning
 - Artificial intelligence in education
@@ -41,8 +48,18 @@ IIT Madras
 - Systems and methods for management of multi-perspective customer segments [US Patent 10,936,620, 2021](https://patents.google.com/patent/US10936620B2) (_**First inventor**_)
 
 ## Work experience
-#### **Research and Development Engineer**, **Flytxt**, (_June 2013 - December 2016_)
-- Worked on projects related to customer segmentation in telecom domain and developed  novel algorithms for performing automatic intelligent grouping of subscribers. Designed interesting visualizations for leveraging value out of large structured/ unstructured data sources, which were later added to the visualization dashboard of the company's product
+- **Research and Development Engineer**  
+  **Flytxt**  
+  (_June 2013 - December 2016_)  
+  
+  Worked on projects related to customer segmentation in telecom domain and developed  novel algorithms for performing automatic intelligent grouping of subscribers. Designed interesting visualizations for leveraging value out of large structured/ unstructured data sources, which were later added to the visualization dashboard of the company's product
+
+## Teaching experience
+- **Chief resource person at [Internzone - Introduction to Machine Learning](http://www.gecskp.ac.in/pdf/news/Internzone_Introduction_to_ML.pdf)**  
+  IEEE Kerala Section  
+  (_August 2021 - December 2021_)
+
+
 
 ## Education
 
