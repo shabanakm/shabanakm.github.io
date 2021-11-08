@@ -1,8 +1,9 @@
 ## Research interests
-Machine learning, Artificial intelligence in education
+- Machine learning
+- Artificial intelligence in education
 
 ## Ongoing research work
-#### Generating personalized sequence of learning content based on a curriculum graph
+### Generating personalized sequence of learning content based on a curriculum graph
 
 <img src="images/model.PNG" width="400" height="400" />
 
