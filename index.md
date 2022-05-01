@@ -12,7 +12,7 @@ I am a PhD research scholar in the department of Computer Science and Engineerin
 - Artificial intelligence in education
 
 ## Ongoing research work
-### Generating personalized sequence of learning content based on a curriculum graph
+### Generating personalized sequence of activities based on a curriculum graph
 
 <p align="center">
 <img src="images/tutoring_algorithm.PNG" width="400" height="400" />
