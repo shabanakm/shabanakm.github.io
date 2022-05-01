@@ -13,7 +13,7 @@ I am a PhD research scholar in the department of Computer Science and Engineerin
 
 ## Ongoing research work
 ### Generating personalized sequence of activities based on a curriculum graph &nbsp;
-**Accepted at AIED 2022** [[Preprint]](https://drive.google.com/file/d/1wxYbmX5Qcr9lbKi77iCwBE1sdxY4qYHE/view?usp=sharing)
+**Accepted at AIED 2022** [[Preprint]](https://github.com/shabanakm/shabanakm.github.io/blob/main/AIED_2022.pdf)
 
 <p align="center">
 <img src="images/tutoring_algorithm.PNG" width="400" height="400" />
