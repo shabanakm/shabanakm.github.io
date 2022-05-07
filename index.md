@@ -12,14 +12,14 @@ I am a PhD research scholar in the department of Computer Science and Engineerin
 - Artificial intelligence in education
 
 ## Ongoing research work
-### Generating personalized sequence of activities based on a curriculum graph &nbsp;
+### CurriculumTutor: a novel tutoring algorithm for mastering a curriculum using adaptive activity sequencing &nbsp;
 **Accepted at AIED 2022** [[Preprint]](https://github.com/shabanakm/shabanakm.github.io/blob/main/AIED_2022.pdf)
 
 <p align="center">
 <img src="images/tutoring_algorithm.PNG" width="400" height="400" />
 </p>
   
-One of the significant drawbacks of the current mode of teaching is the lack of personalization - the same course material is delivered to a large population of students regardless of their abilities and learning speed. This 'one-size-fits-all' strategy of content delivery does not cater to the learners' individual learning needs and the quality of education thus takes a hit. In this work we propose a reinforcement learning based tutoring model that helps a student to master a curriculum by adaptively sequencing learning content based on the student's learning curve. The model uses a curriculum graph, that represents the prerequisite relationships between various topics, to determine the next best topic to be offered to the student for practice. Our model has demonstrated better performance than some of the existing tutoring algorithms in simulations. The model has shown superior performance in scenarios where a student struggles to learn a topic.
+An important problem in an intelligent tutoring system (ITS) is that of adaptive sequencing of learning activities in a personalised manner so as to improve learning gains. In this paper, we consider intelligent tutoring in the *learning by doing* (LbD) setting, wherein the *concepts* to be learnt along with their inter-dependencies are available as a *curriculum graph*, and a given concept is learnt by performing an activity related to that concept (such as solving/answering a problem/question). For this setting, recent works have proposed algorithms based on multi-armed bandits (MAB), where activities are adaptively sequenced using the student response to those activities as a direct feedback. In this paper, we propose **CurriculumTutor**, a novel technique that combines a MAB algorithm and a *change point detection* algorithm for the problem of adaptive activity sequencing. Our algorithm improves upon prior MAB algorithms for the LbD setting by (i) providing better learning gains, and (ii) reducing hyper-parameters thereby improving personalisation. We show that our tutoring algorithm significantly outperforms prior approaches in the benchmark domain of two operand addition up to a maximum of four digits.
 
 ## Research advisor
 **Dr. Chandrashekar Lakshminarayanan**  
