@@ -5,7 +5,7 @@ I am a PhD research scholar in the department of Computer Science and Engineerin
 &nbsp;
 [<img src="images/scholar_logo.png" width="30" height="30">](https://scholar.google.com/citations?user=EEQU31YAAAAJ&hl=en/)
 &nbsp;
-[<img src="images/cv_logo.png" width="30" height="30">](https://github.com/shabanakm/shabanakm.github.io/blob/main/Shabana_Resume.pdf)
+[<img src="images/cv_logo.png" width="30" height="30">](https://raw.githubusercontent.com/shabanakm/shabanakm.github.io/main/Shabana_Resume.pdf)
 
 ## Research interests
 - Machine learning
@@ -13,7 +13,7 @@ I am a PhD research scholar in the department of Computer Science and Engineerin
 
 ## Ongoing research work
 ### CurriculumTutor: a novel tutoring algorithm for mastering a curriculum using adaptive activity sequencing
-**Accepted at AIED 2022** [[Preprint]](https://github.com/shabanakm/shabanakm.github.io/blob/main/AIED_2022_Final.pdf)
+**Accepted at AIED 2022** [[Preprint]](https://raw.githubusercontent.com/shabanakm/shabanakm.github.io/main/AIED_2022_Final.pdf)
 
 <p align="center">
 <img src="images/CurriculumTutor.png" width="800" height="500" />
