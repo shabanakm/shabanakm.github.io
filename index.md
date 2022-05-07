@@ -12,7 +12,7 @@ I am a PhD research scholar in the department of Computer Science and Engineerin
 - Artificial intelligence in education
 
 ## Ongoing research work
-### CurriculumTutor: a novel tutoring algorithm for mastering a curriculum using adaptive activity sequencing &nbsp;
+### CurriculumTutor: a novel tutoring algorithm for mastering a curriculum using adaptive activity sequencing
 **Accepted at AIED 2022** [[Preprint]](https://github.com/shabanakm/shabanakm.github.io/blob/main/AIED_2022.pdf)
 
 <p align="center">
