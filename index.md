@@ -21,7 +21,12 @@ I am a PhD research scholar in the department of Computer Science and Engineerin
 
 An important problem in an intelligent tutoring system (ITS) is that of adaptive sequencing of learning activities in a personalised manner so as to improve learning gains. In this paper, we consider intelligent tutoring in the *learning by doing* (LbD) setting, wherein the *concepts* to be learnt along with their inter-dependencies are available as a *curriculum graph*, and a given concept is learnt by performing an activity related to that concept (such as solving/answering a problem/question). For this setting, recent works have proposed algorithms based on multi-armed bandits (MAB), where activities are adaptively sequenced using the student response to those activities as a direct feedback. In this paper, we propose **CurriculumTutor**, a novel technique that combines a MAB algorithm and a *change point detection* algorithm for the problem of adaptive activity sequencing. Our algorithm improves upon prior MAB algorithms for the LbD setting by (i) providing better learning gains, and (ii) reducing hyper-parameters thereby improving personalisation. We show that our tutoring algorithm significantly outperforms prior approaches in the benchmark domain of two operand addition up to a maximum of four digits.
 
-### Content sequencing: 
+### Content sequencing
+Given a set of resources such as videos, worked out examples, etc. related to a given concept, find an optimal sequence of resources that gets a student to master the concept as quickly as possible
+
+<p align="center">
+<img src="images/contentSequence.png" width="450" height="150" />
+</p>
 
 ## Research advisor
 **Dr. Chandrashekar Lakshminarayanan**  
