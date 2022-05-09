@@ -72,7 +72,7 @@ IIT Madras
   Conducted weekly one-hour sessions on basic machine learning algorithms, as a part of PMRF teaching requirements. Designed and delivered the course content as well as prepared weekly quizzes and programming assignments.
   
 - **Introduction to Python programming**  
-  Government Polytechnic College,Palakkad  
+  Government Polytechnic College, Palakkad  
   (_March 2022_ - )
   
   Conducting weekly 1-2 hour hands-on sessions on python programming for final year Diploma students of Computer Hardware Engineering department.
