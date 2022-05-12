@@ -75,7 +75,7 @@ IIT Madras
   Government Polytechnic College, Palakkad  
   (_March 2022_ - )
   
-  Conducting weekly 1-2 hour hands-on sessions on python programming for final year Diploma students of Computer Hardware Engineering department.
+  Conducting weekly 1-2 hour hands-on sessions on python programming for final year Diploma students of the Computer Hardware Engineering department.
 
 ## Education
 
