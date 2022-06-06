@@ -67,9 +67,9 @@ IIT Madras
 ## Teaching experience
 - **Chief resource person at [Internzone - Introduction to Machine Learning](http://www.gecskp.ac.in/pdf/news/Internzone_Introduction_to_ML.pdf)**  
   IEEE Kerala Section  
-  (_August 2021 - December 2021_)
+  (_August 2021 - December 2021_)  
   
-  Conducted weekly one-hour sessions on basic machine learning algorithms, as a part of PMRF teaching requirements. Designed and delivered the course content as well as prepared weekly quizzes and programming assignments.
+  Conducted weekly one-hour sessions on basic machine learning algorithms, as a part of PMRF teaching requirements. Designed and delivered the course content as well as prepared weekly quizzes and programming assignments. [[Slides]](https://github.com/shabanakm/PMRF-Teaching-Material/tree/main/Introduction%20to%20Machine%20Learning)
   
 - **Introduction to Python programming**  
   Government Polytechnic College, Palakkad  
