@@ -13,7 +13,7 @@ I am a PhD research scholar in the department of Computer Science and Engineerin
 
 ## Ongoing research work
 ### CurriculumTutor: a novel tutoring algorithm for mastering a curriculum using adaptive activity sequencing
-**Accepted at AIED 2022** [[Preprint]](https://raw.githubusercontent.com/shabanakm/shabanakm.github.io/main/AIED_2022_Final.pdf)
+**Won the best paper award at AIED 2022** [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-11644-5_26)
 
 <p align="center">
 <img src="images/CurriculumTutor.png" width="800" height="500" />
@@ -37,18 +37,22 @@ IIT Madras
 
 ## Publications
 
-1. **Shabana, K. M.**, Nazeer, K. A., Pradhan, M., & Palakal, M. (2015). A computational method for drug repositioning using publicly available gene expression data. BMC bioinformatics, 16(17), S5. [[Paper]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-16-S17-S5) _Won the best paper award at IEEE 4th International Conference on Computational Advances in Bio and Medical Sciences (ICCABS), 2014_
+1. **Shabana, K. M.**, Lakshminarayanan, C., & Anil, J. K. (2022). CurriculumTutor: An Adaptive Algorithm for Mastering a Curriculum. In International Conference on Artificial Intelligence in Education (pp. 319-331). Springer, Cham. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-11644-5_26) _Won the best paper award at AIED 2022: The 23rd International Conference on Artificial Intelligence in Education_
 
-2. **Shabana, K. M.**, & Wilson, J. (2015, May). A novel method for automatic discovery, annotation and interactive visualization of prominent clusters in mobile subscriber datasets. In 2015 IEEE 9th International Conference on Research Challenges in Information Science (RCIS) (pp. 127-132). IEEE.
+2. **Shabana, K. M.**, Nazeer, K. A., Pradhan, M., & Palakal, M. (2015). A computational method for drug repositioning using publicly available gene expression data. BMC bioinformatics, 16(17), S5. [[Paper]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-16-S17-S5) _Won the best paper award at IEEE 4th International Conference on Computational Advances in Bio and Medical Sciences (ICCABS), 2014_
+
+3. **Shabana, K. M.**, & Wilson, J. (2015, May). A novel method for automatic discovery, annotation and interactive visualization of prominent clusters in mobile subscriber datasets. In 2015 IEEE 9th International Conference on Research Challenges in Information Science (RCIS) (pp. 127-132). IEEE.
 [[Paper]](https://ieeexplore.ieee.org/document/7128872/?tp=&arnumber=7128872)
 
-3. **Shabana, K. M.**, Wilson, J., & Chaudhury, S. (2016, August). A multi-view non-parametric clustering approach to mobile subscriber segmentation. In 2016 IEEE 18th Conference on Business Informatics (CBI) (Vol. 1, pp. 173-181). IEEE. [[Paper]](https://ieeexplore.ieee.org/abstract/document/7780312)
+4. **Shabana, K. M.**, Wilson, J., & Chaudhury, S. (2016, August). A multi-view non-parametric clustering approach to mobile subscriber segmentation. In 2016 IEEE 18th Conference on Business Informatics (CBI) (Vol. 1, pp. 173-181). IEEE. [[Paper]](https://ieeexplore.ieee.org/abstract/document/7780312)
 
 ## Honors and Awards
 
 - Prime Minister's Research Fellow (PMRF May 2020 lateral entry scheme)
 - First prize winner in the First Teaching Challenge on introductory programming organized by ACM iSIGCSE [[Video]](https://www.youtube.com/watch?v=UFDV_EvYwmw)
 - Won the second prize in ACM Compute 2021 teaching challenge organized by ACM iSIGCSE
+- Winner at TACT Grand Challenge at CTiS2022, 4th Conference on Computational Thinking in Schools
+- Chaired the session _Curriculum and Instruction_ at AIED 2022
 - Software Design National Finalist at Microsoft Imagine Cup 2010
 - Data Challenge Finalist at ACM IKDD CoDS 2016
 - Won the Collaboration Award at Flytxt for demonstrating good team work towards achieving the company's objectives
