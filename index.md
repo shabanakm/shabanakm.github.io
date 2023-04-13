@@ -21,6 +21,12 @@ I am a PhD research scholar in the department of Computer Science and Engineerin
 
 An important problem in an intelligent tutoring system (ITS) is that of adaptive sequencing of learning activities in a personalised manner so as to improve learning gains. In this paper, we consider intelligent tutoring in the *learning by doing* (LbD) setting, wherein the *concepts* to be learnt along with their inter-dependencies are available as a *curriculum graph*, and a given concept is learnt by performing an activity related to that concept (such as solving/answering a problem/question). For this setting, recent works have proposed algorithms based on multi-armed bandits (MAB), where activities are adaptively sequenced using the student response to those activities as a direct feedback. In this paper, we propose **CurriculumTutor**, a novel technique that combines a MAB algorithm and a *change point detection* algorithm for the problem of adaptive activity sequencing. Our algorithm improves upon prior MAB algorithms for the LbD setting by (i) providing better learning gains, and (ii) reducing hyper-parameters thereby improving personalisation. We show that our tutoring algorithm significantly outperforms prior approaches in the benchmark domain of two operand addition up to a maximum of four digits.
 
+### Unsupervised concept tagging of mathematical questions from student explanations
+**Accepted at AIED 2023** 
+
+Assigning concept tags to questions enables Intelligent tutoring systems (ITS) to efficiently organize resources, help identify students’ strengths and weaknesses, and recommend suitable learning materials accordingly. Manual tagging is time-consuming, and inefficient for large question banks, and could lead to consistency issues due to differences in the perspectives of individual taggers. Automatic tagging techniques can efficiently generate consistent tags at lower costs. Generating automatic tags for mathematical questions is challenging as the question text is usually short and concise, and the question as well as the answer text contains mathematical symbols and formulas. However, prior works have not studied this problem extensively. In this context, we conducted a study in a graduate-level linear algebra course to understand if student explanations to solving mathematical problems can be employed to generate concept tags associated with those questions. In this work, we propose a method called Unsupervised Skill Tagging (UST) to extract
+concept tags associated with a given assessment item from explanation text. Using UST on the explanations generated, we show that the explanations indeed contain the expert-specified concept tags.
+
 ### Content sequencing
 Given a set of resources such as videos, worked out examples, etc. related to a given concept, find an optimal sequence of resources that gets a student to master the concept as quickly as possible
 
@@ -50,6 +56,7 @@ IIT Madras
 
 - Prime Minister's Research Fellow (PMRF May 2020 lateral entry scheme)
 - First prize winner in the First Teaching Challenge on introductory programming organized by ACM iSIGCSE [[Video]](https://www.youtube.com/watch?v=UFDV_EvYwmw)
+- Teaching Challenge Finalist, ACM Compute 2022
 - Won the second prize in ACM Compute 2021 teaching challenge organized by ACM iSIGCSE
 - Winner at TACT Grand Challenge at CTiS2022, 4th Conference on Computational Thinking in Schools
 - Chaired the session _Curriculum and Instruction_ at AIED 2022
@@ -75,11 +82,11 @@ IIT Madras
   
   Conducted weekly one-hour sessions on basic machine learning algorithms, as a part of PMRF teaching requirements. Designed and delivered the course content as well as prepared weekly quizzes and programming assignments. [[Slides]](https://github.com/shabanakm/PMRF-Teaching-Material/tree/main/Introduction%20to%20Machine%20Learning)
   
-- **Introduction to Python programming**  
+- **Introduction to Python programming, LaTeX**  
   Government Polytechnic College, Palakkad  
   (_March 2022_ - )
   
-  Conducting weekly 1-2 hour hands-on sessions on python programming for final year Diploma students of the Computer Hardware Engineering department.
+  Conducting weekly 1-2 hour hands-on sessions on python programming and LaTeX for final year Diploma students of the Computer Hardware Engineering department.
 
 ## Education
 
