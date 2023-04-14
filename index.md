@@ -25,7 +25,7 @@ An important problem in an intelligent tutoring system (ITS) is that of adaptive
 **Accepted at AIED 2023** [[Preprint]](https://raw.githubusercontent.com/shabanakm/shabanakm.github.io/main/AIED_2023_Submission.pdf)
 
 <p align="center">
-<img src="images/conceptTagging.png" width="500" height="300" />
+<img src="images/ConceptTagging.png" width="500" height="300" />
 </p>
 
 Assigning concept tags to questions enables Intelligent tutoring systems (ITS) to efficiently organize resources, help identify students’ strengths and weaknesses, and recommend suitable learning materials accordingly. Manual tagging is time-consuming, and inefficient for large question banks, and could lead to consistency issues due to differences in the perspectives of individual taggers. Automatic tagging techniques can efficiently generate consistent tags at lower costs. Generating automatic tags for mathematical questions is challenging as the question text is usually short and concise, and the question as well as the answer text contains mathematical symbols and formulas. However, prior works have not studied this problem extensively. In this context, we conducted a study in a graduate-level linear algebra course to understand if student explanations to solving mathematical problems can be employed to generate concept tags associated with those questions. In this work, we propose a method called Unsupervised Skill Tagging (UST) to extract
