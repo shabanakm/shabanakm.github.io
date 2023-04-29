@@ -1,5 +1,5 @@
 ## About me
-I am a PhD research scholar in the department of Computer Science and Engineering at Indian Institute of Technology Palakkad. My research currently focuses on enhancing the quality of human learning thorugh artificial intelligence.
+I am a PhD research scholar in the department of Computer Science and Engineering at Indian Institute of Technology Palakkad. My research currently focuses on enhancing the quality of human learning through artificial intelligence.
 
 [<img src="images/linkedin_logo.png" width="30" height="30">](https://www.linkedin.com/in/shabana-k-m/)
 &nbsp;
