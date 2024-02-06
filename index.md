@@ -22,7 +22,7 @@ I am a PhD research scholar in the department of Computer Science and Engineerin
 An important problem in an intelligent tutoring system (ITS) is that of adaptive sequencing of learning activities in a personalised manner so as to improve learning gains. In this paper, we consider intelligent tutoring in the *learning by doing* (LbD) setting, wherein the *concepts* to be learnt along with their inter-dependencies are available as a *curriculum graph*, and a given concept is learnt by performing an activity related to that concept (such as solving/answering a problem/question). For this setting, recent works have proposed algorithms based on multi-armed bandits (MAB), where activities are adaptively sequenced using the student response to those activities as a direct feedback. In this paper, we propose **CurriculumTutor**, a novel technique that combines a MAB algorithm and a *change point detection* algorithm for the problem of adaptive activity sequencing. Our algorithm improves upon prior MAB algorithms for the LbD setting by (i) providing better learning gains, and (ii) reducing hyper-parameters thereby improving personalisation. We show that our tutoring algorithm significantly outperforms prior approaches in the benchmark domain of two operand addition up to a maximum of four digits.
 
 ### Unsupervised concept tagging of mathematical questions from student explanations
-**Accepted at AIED 2023** [[Preprint]](https://raw.githubusercontent.com/shabanakm/shabanakm.github.io/main/AIED_2023_Submission.pdf)
+**Presented at AIED 2023** [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-36272-9_51)
 
 <p align="center">
 <img src="images/ConceptTagging.png" width="500" height="300" />
@@ -49,26 +49,32 @@ IIT Madras
 
 1. **Shabana, K. M.**, Lakshminarayanan, C., & Anil, J. K. (2022). CurriculumTutor: An Adaptive Algorithm for Mastering a Curriculum. In International Conference on Artificial Intelligence in Education (pp. 319-331). Springer, Cham. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-11644-5_26) _Won the best paper award at AIED 2022: The 23rd International Conference on Artificial Intelligence in Education_
 
-2. **Shabana, K. M.**, Nazeer, K. A., Pradhan, M., & Palakal, M. (2015). A computational method for drug repositioning using publicly available gene expression data. BMC bioinformatics, 16(17), S5. [[Paper]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-16-S17-S5) _Won the best paper award at IEEE 4th International Conference on Computational Advances in Bio and Medical Sciences (ICCABS), 2014_
+2. **Shabana, K.M.**, Lakshminarayanan, C. (2023). Unsupervised Concept Tagging of Mathematical Questions from Student Explanations. In International Conference on Artificial Intelligence in Education (pp. 627-638), vol 13916. Cham: Springer Nature Switzerland. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-36272-9_51)
 
-3. **Shabana, K. M.**, & Wilson, J. (2015, May). A novel method for automatic discovery, annotation and interactive visualization of prominent clusters in mobile subscriber datasets. In 2015 IEEE 9th International Conference on Research Challenges in Information Science (RCIS) (pp. 127-132). IEEE.
+3. **Shabana, K. M.**, Nazeer, K. A., Pradhan, M., & Palakal, M. (2015). A computational method for drug repositioning using publicly available gene expression data. BMC bioinformatics, 16(17), S5. [[Paper]](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-16-S17-S5) _Won the best paper award at IEEE 4th International Conference on Computational Advances in Bio and Medical Sciences (ICCABS), 2014_
+
+4. **Shabana, K. M.**, & Wilson, J. (2015, May). A novel method for automatic discovery, annotation and interactive visualization of prominent clusters in mobile subscriber datasets. In 2015 IEEE 9th International Conference on Research Challenges in Information Science (RCIS) (pp. 127-132). IEEE.
 [[Paper]](https://ieeexplore.ieee.org/document/7128872/?tp=&arnumber=7128872)
 
-4. **Shabana, K. M.**, Wilson, J., & Chaudhury, S. (2016, August). A multi-view non-parametric clustering approach to mobile subscriber segmentation. In 2016 IEEE 18th Conference on Business Informatics (CBI) (Vol. 1, pp. 173-181). IEEE. [[Paper]](https://ieeexplore.ieee.org/abstract/document/7780312)
+5. **Shabana, K. M.**, Wilson, J., & Chaudhury, S. (2016, August). A multi-view non-parametric clustering approach to mobile subscriber segmentation. In 2016 IEEE 18th Conference on Business Informatics (CBI) (Vol. 1, pp. 173-181). IEEE. [[Paper]](https://ieeexplore.ieee.org/abstract/document/7780312)
 
 ## Honors and Awards
 
-- Prime Minister's Research Fellow (PMRF May 2020 lateral entry scheme)
-- First prize winner in the First Teaching Challenge on introductory programming organized by ACM iSIGCSE [[Video]](https://www.youtube.com/watch?v=UFDV_EvYwmw)
-- Teaching Challenge Finalist, ACM Compute 2022
-- Won the second prize in ACM Compute 2021 teaching challenge organized by ACM iSIGCSE
-- Winner at TACT Grand Challenge at CTiS2022, 4th Conference on Computational Thinking in Schools
-- Chaired the session _Curriculum and Instruction_ at AIED 2022
+- Prime Minister's Research Fellowship (PMRF May 2020 lateral entry scheme)
+- Second prize in the Engineering Sciences category of Saransh 2023, a national level competition for thesis presentation in 3 minutes, organized by Indian National Young Academy of Science (INYAS)
+- Part of the team that finished second in the Data Challenge held as a part of CODS-COMAD 2024 (11th ACM IKDD CODS and 29th COMAD)
+- Best Poster Award in the department of CSE at the Institute Research Scholars‘ Day 2022 in IIT Palakkad
+- Winner of the TACT Grand Challenge at CTiS2022, 4th conference on Computational Thinking in Schools, organized by ACM India
+- First prize in Teaching Video Challenge 1 organized by ACM India Special Interest Group on Computer Science Education (iSIGCSE)
+- Second prize in Teaching Video Challenge held as a part of Compute 2021
 - Software Design National Finalist at Microsoft Imagine Cup 2010
-- Data Challenge Finalist at ACM IKDD CoDS 2016
-- Won the Collaboration Award at Flytxt for demonstrating good team work towards achieving the company's objectives
-- Won the Ada Lovelace best outgoing girl student award for the year 2010 at A2CWiC: Amrita ACM-W Celebration on Women in Computing in India
+- Collaboration Award at Flytxt for demonstrating good team work towards achieving the company's objectives
+- Ada Lovelace best outgoing girl student award for the year 2010 at A2CWiC: Amrita ACM-W Celebration on Women in Computing in India
 
+## Services
+
+- Chaired the session _Curriculum and Instruction_ at AIED 2022
+  
 ## Patent
 - Systems and methods for management of multi-perspective customer segments [US Patent 10,936,620, 2021](https://patents.google.com/patent/US10936620B2) (_**First inventor**_)
 
