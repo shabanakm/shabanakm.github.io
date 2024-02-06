@@ -73,8 +73,8 @@ IIT Madras
 - Second prize in Teaching Video Challenge held as a part of Compute 2021
 - First prize in Teaching Video Challenge 1 organized by the India Chapter of Special Interest Group on Computer Science Education (iSIGCSE)
 - Collaboration Award at Flytxt for demonstrating good team work towards achieving the company's objectives
-- Gold Medal for having scored the highest CGPA in M.Tech
-- Silver Medal (Second rank) at university level for B.Tech
+- Gold Medal for having scored the highest CGPA in the class for M.Tech Computer Science and Engineering (2013)
+- Silver Medal in the department of Computer Science and Engineering at university level for B.Tech (2011)
 - All India Rank 272 out of 136027 students in the Computer Science and Information Technology paper of the Graduate Aptitude Test in Engineering (GATE 2011)
 - Ada Lovelace best outgoing girl student award for the year 2010 in Amrita School of Engineering, Amritapuri
 - Software Design National Finalist at Microsoft Imagine Cup 2009
