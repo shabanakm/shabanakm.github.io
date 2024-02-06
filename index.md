@@ -71,7 +71,7 @@ IIT Madras
 - Best Poster Award in the department of CSE at the Institute Research Scholars‘ Day 2022 in IIT Palakkad
 - Winner of the TACT Grand Challenge at CTiS2022, 4th conference on Computational Thinking in Schools, organized by ACM India
 - Second prize in Teaching Video Challenge held as a part of Compute 2021
-- First prize in Teaching Video Challenge 1 organized by ACM India Special Interest Group on Computer Science Education (iSIGCSE)
+- First prize in Teaching Video Challenge 1 organized by the India Chapter of Special Interest Group on Computer Science Education (iSIGCSE)
 - Collaboration Award at Flytxt for demonstrating good team work towards achieving the company's objectives
 - Gold Medal for having scored the highest CGPA in M.Tech
 - Silver Medal (Second rank) at university level for B.Tech
