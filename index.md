@@ -8,8 +8,8 @@ I am a PhD research scholar in the department of Computer Science and Engineerin
 [<img src="images/cv_logo.png" width="30" height="30">](https://raw.githubusercontent.com/shabanakm/shabanakm.github.io/main/Shabana_Resume.pdf)
 
 ## Research interests
-- Machine learning
 - Artificial intelligence in education
+- Machine learning
 
 ## Ongoing research work
 ### CurriculumTutor: a novel tutoring algorithm for mastering a curriculum using adaptive activity sequencing
