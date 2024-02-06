@@ -76,8 +76,8 @@ IIT Madras
 - Gold Medal for having scored the highest CGPA in M.Tech
 - Silver Medal (Second rank) at university level for B.Tech
 - All India Rank 272 out of 136027 students in the Computer Science and Information Technology paper of the Graduate Aptitude Test in Engineering (GATE 2011)
-- Software Design National Finalist at Microsoft Imagine Cup 2010
 - Ada Lovelace best outgoing girl student award for the year 2010 in Amrita School of Engineering, Amritapuri
+- Software Design National Finalist at Microsoft Imagine Cup 2009
 
 ## Patent
 - Systems and methods for management of multi-perspective customer segments [US Patent 10,936,620, 2021](https://patents.google.com/patent/US10936620B2) (_**First inventor**_)
