@@ -46,7 +46,6 @@ IIT Madras
 [[Homepage]](https://sites.google.com/view/chandrashekar-lakshminarayanan)
 
 ## Publications
-
 1. **Shabana, K. M.**, Lakshminarayanan, C., & Anil, J. K. (2022). CurriculumTutor: An Adaptive Algorithm for Mastering a Curriculum. In International Conference on Artificial Intelligence in Education (pp. 319-331). Springer, Cham. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-11644-5_26) _Won the best paper award at AIED 2022: The 23rd International Conference on Artificial Intelligence in Education_
 
 2. **Shabana, K.M.**, Lakshminarayanan, C. (2023). Unsupervised Concept Tagging of Mathematical Questions from Student Explanations. In International Conference on Artificial Intelligence in Education (pp. 627-638), vol 13916. Cham: Springer Nature Switzerland. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-36272-9_51)
@@ -58,26 +57,6 @@ IIT Madras
 
 5. **Shabana, K. M.**, Wilson, J., & Chaudhury, S. (2016, August). A multi-view non-parametric clustering approach to mobile subscriber segmentation. In 2016 IEEE 18th Conference on Business Informatics (CBI) (Vol. 1, pp. 173-181). IEEE. [[Paper]](https://ieeexplore.ieee.org/abstract/document/7780312)
 
-## Honors and Awards
-
-- Prime Minister's Research Fellowship (PMRF May 2020 lateral entry scheme)
-- Second prize in the Engineering Sciences category of Saransh 2023, a national level competition for thesis presentation in 3 minutes, organized by Indian National Young Academy of Science (INYAS)
-- Part of the team that finished second in the Data Challenge held as a part of CODS-COMAD 2024 (11th ACM IKDD CODS and 29th COMAD)
-- Best Poster Award in the department of CSE at the Institute Research Scholars‘ Day 2022 in IIT Palakkad
-- Winner of the TACT Grand Challenge at CTiS2022, 4th conference on Computational Thinking in Schools, organized by ACM India
-- First prize in Teaching Video Challenge 1 organized by ACM India Special Interest Group on Computer Science Education (iSIGCSE)
-- Second prize in Teaching Video Challenge held as a part of Compute 2021
-- Software Design National Finalist at Microsoft Imagine Cup 2010
-- Collaboration Award at Flytxt for demonstrating good team work towards achieving the company's objectives
-- Ada Lovelace best outgoing girl student award for the year 2010 at A2CWiC: Amrita ACM-W Celebration on Women in Computing in India
-
-## Services
-
-- Chaired the session _Curriculum and Instruction_ at AIED 2022
-  
-## Patent
-- Systems and methods for management of multi-perspective customer segments [US Patent 10,936,620, 2021](https://patents.google.com/patent/US10936620B2) (_**First inventor**_)
-
 ## Work experience
 - **Research and Development Engineer**  
   **Flytxt**  
@@ -85,18 +64,51 @@ IIT Madras
   
   Worked on projects related to customer segmentation in telecom domain and developed  novel algorithms for performing automatic intelligent grouping of subscribers. Designed interesting visualizations for leveraging value out of large structured/ unstructured data sources, which were later added to the visualization dashboard of the company's product
 
+## Honors and Awards
+- Prime Minister's Research Fellowship (PMRF May 2020 lateral entry scheme)
+- Second prize in the Engineering Sciences category of Saransh 2023, a national level competition for thesis presentation in 3 minutes, organized by Indian National Young Academy of Science (INYAS)
+- Part of the team that finished second in the Data Challenge held as a part of CODS-COMAD 2024 (11th ACM IKDD CODS and 29th COMAD)
+- Best Poster Award in the department of CSE at the Institute Research Scholars‘ Day 2022 in IIT Palakkad
+- Winner of the TACT Grand Challenge at CTiS2022, 4th conference on Computational Thinking in Schools, organized by ACM India
+- Second prize in Teaching Video Challenge held as a part of Compute 2021
+- First prize in Teaching Video Challenge 1 organized by ACM India Special Interest Group on Computer Science Education (iSIGCSE)
+- Collaboration Award at Flytxt for demonstrating good team work towards achieving the company's objectives
+- Gold Medal for having scored the highest CGPA in M.Tech
+- Silver Medal (Second rank) at university level for B.Tech
+- All India Rank 272 out of 136027 students in the Computer Science and Information Technology paper of the Graduate Aptitude Test in Engineering (GATE 2011)
+- Software Design National Finalist at Microsoft Imagine Cup 2010
+- Ada Lovelace best outgoing girl student award for the year 2010 in Amrita School of Engineering, Amritapuri
+
+## Patent
+- Systems and methods for management of multi-perspective customer segments [US Patent 10,936,620, 2021](https://patents.google.com/patent/US10936620B2) (_**First inventor**_)
+
+## Services
+- Chaired the session _Curriculum and Instruction_ at AIED 2022
+- Member of India Chapter of Special Interest Group on Computer Science Education (iSIGCSE)
+- Chief coordinator of the Computer Science and Engineering (CSE) Research Symposium 2023, IIT Palakkad
+- Department coordinator of the Institute Research Scholars Day 2022, IIT Palakkad
+- As a teaching assistant for the courses _Artificial Intelligence Laboratory (2020, 2021), Data Structures and
+Algorithms Laboratory (2020)_ and _Introduction to Artificial Intelligence (2023)_, I helped conduct the weekly lab
+sessions and evaluate the student submissions.
+- As a teaching assistant for the course _Game Theory and Mechanism Design (2022)_, I helped evaluate assignments
+and exam scripts.
+- As a teaching assistant for the course _Technical Writing (2023)_, I prepared the lesson plan, course materials and
+assignments for the sessions on Introduction to LaTeX and Beamer for first year post-graduate students in the
+department of CSE. I also conducted the sessions and evaluated the assignments submitted by the students.
+
+
 ## Teaching experience
 - **Chief resource person at [Internzone - Introduction to Machine Learning](http://www.gecskp.ac.in/pdf/news/Internzone_Introduction_to_ML.pdf)**  
   IEEE Kerala Section  
-  (_August 2021 - December 2021_)  
+  (_August 2021 - February 2022_)  
   
   Conducted weekly one-hour sessions on basic machine learning algorithms, as a part of PMRF teaching requirements. Designed and delivered the course content as well as prepared weekly quizzes and programming assignments. [[Slides]](https://github.com/shabanakm/PMRF-Teaching-Material/tree/main/Introduction%20to%20Machine%20Learning)
   
 - **Introduction to Python programming, LaTeX**  
   Government Polytechnic College, Palakkad  
-  (_March 2022_ - )
+  (_May 2022 - May 2023_)
   
-  Conducting weekly 1-2 hour hands-on sessions on python programming and LaTeX for final year Diploma students of the Computer Hardware Engineering department.
+  Conducted weekly 1-2 hour hands-on sessions on python programming and LaTeX for final year Diploma students of the Computer Hardware Engineering department.
 
 ## Education
 
