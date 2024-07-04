@@ -10,6 +10,7 @@ I am a PhD research scholar in the department of Computer Science and Engineerin
 ## Research interests
 - Artificial intelligence in education
 - Machine learning
+- Educational data mining
 
 ## Ongoing research work
 ### CurriculumTutor: a novel tutoring algorithm for mastering a curriculum using adaptive activity sequencing
@@ -82,21 +83,6 @@ IIT Madras
 ## Patent
 - Systems and methods for management of multi-perspective customer segments [US Patent 10,936,620, 2021](https://patents.google.com/patent/US10936620B2) (_**First inventor**_)
 
-## Services
-- Chaired the session _Curriculum and Instruction_ at AIED 2022
-- Member of India Chapter of Special Interest Group on Computer Science Education (iSIGCSE)
-- Chief coordinator of the Computer Science and Engineering (CSE) Research Symposium 2023, IIT Palakkad
-- Department coordinator of the Institute Research Scholars Day 2022, IIT Palakkad
-- As a teaching assistant for the courses _Artificial Intelligence Laboratory (2020, 2021), Data Structures and
-Algorithms Laboratory (2020)_ and _Introduction to Artificial Intelligence (2023)_, I helped conduct the weekly lab
-sessions and evaluate the student submissions.
-- As a teaching assistant for the course _Game Theory and Mechanism Design (2022)_, I helped evaluate assignments
-and exam scripts.
-- As a teaching assistant for the course _Technical Writing (2023)_, I prepared the lesson plan, course materials and
-assignments for the sessions on Introduction to LaTeX and Beamer for first year post-graduate students in the
-department of CSE. I also conducted the sessions and evaluated the assignments submitted by the students.
-
-
 ## Teaching experience
 - **Chief resource person at [Internzone - Introduction to Machine Learning](http://www.gecskp.ac.in/pdf/news/Internzone_Introduction_to_ML.pdf)**  
   IEEE Kerala Section  
@@ -110,12 +96,23 @@ department of CSE. I also conducted the sessions and evaluated the assignments s
   
   Conducted weekly 1-2 hour hands-on sessions on python programming and LaTeX for final year Diploma students of the Computer Hardware Engineering department.
 
+## Teaching Assistantship
+- _Artificial Intelligence Laboratory (2020, 2021), Data Structures and Algorithms Laboratory (2020)_ and _Introduction to Artificial Intelligence (2023)_: Helped conduct the weekly lab sessions and evaluate student submissions.
+- _Game Theory and Mechanism Design (2022)_: Helped evaluate assignments and exam scripts.
+- _Technical Writing (2023)_: Prepared the lesson plan, course materials and assignments for the sessions on Introduction to LaTeX and Beamer for first year post-graduate students in the department of CSE. Also conducted the sessions and evaluated the assignments submitted by the students.
+- _Introduction to Artificial Intelligence (2024)_: As the Head TA for the course, coordinated a team of 7 TAs in evaluating the submissions made by around 75 undergraduate students for 6 lab assignments. Also prepared the lab assignment on `Decision Trees'.
+
+  ## Service
+- Chaired the session _Curriculum and Instruction_ at AIED 2022
+- Chief coordinator of the Computer Science and Engineering (CSE) Research Symposium 2023, IIT Palakkad
+- Department coordinator of the Institute Research Scholars Day 2022, IIT Palakkad
+
 ## Education
 
 - **PhD**: Indian Institute of Technology Palakkad (_2019_ - )
 - **M.Tech**: National Insititue of Technology Calicut (_2011 - 2013_)
 - **B.Tech**: Amrita School of Engineering, Kollam (_2007 - 2011_)
-
+- 
 ## Contact
 
 111914007 [at] smail [dot] iitpkd [dot] ac [dot] in
