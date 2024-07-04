@@ -100,7 +100,7 @@ IIT Madras
 - _Artificial Intelligence Laboratory (2020, 2021), Data Structures and Algorithms Laboratory (2020)_ and _Introduction to Artificial Intelligence (2023)_: Helped conduct the weekly lab sessions and evaluate student submissions.
 - _Game Theory and Mechanism Design (2022)_: Helped evaluate assignments and exam scripts.
 - _Technical Writing (2023)_: Prepared the lesson plan, course materials and assignments for the sessions on Introduction to LaTeX and Beamer for first year post-graduate students in the department of CSE. Also conducted the sessions and evaluated the assignments submitted by the students.
-- _Introduction to Artificial Intelligence (2024)_: As the Head TA for the course, coordinated a team of 7 TAs in evaluating the submissions made by around 75 undergraduate students for 6 lab assignments. Also prepared the lab assignment on `Decision Trees'.
+- _Introduction to Artificial Intelligence (2024)_: As the Head TA for the course, coordinated a team of 7 TAs in evaluating the submissions made by around 75 undergraduate students for 6 lab assignments. Also prepared the lab assignment on _Decision Trees_.
 
   ## Service
 - Chaired the session _Curriculum and Instruction_ at AIED 2022
@@ -112,7 +112,7 @@ IIT Madras
 - **PhD**: Indian Institute of Technology Palakkad (_2019_ - )
 - **M.Tech**: National Insititue of Technology Calicut (_2011 - 2013_)
 - **B.Tech**: Amrita School of Engineering, Kollam (_2007 - 2011_)
-- 
+  
 ## Contact
 
 111914007 [at] smail [dot] iitpkd [dot] ac [dot] in
