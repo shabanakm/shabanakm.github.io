@@ -42,7 +42,7 @@ Given a set of resources such as videos, worked out examples, etc. related to a 
 ## Research advisor
 **Dr. Chandrashekar Lakshminarayanan**  
 Assistant Professor  
-Department of CSE  
+Department of Data Science and AI  
 IIT Madras  
 [[Homepage]](https://sites.google.com/view/chandrashekar-lakshminarayanan)
 
@@ -63,10 +63,11 @@ IIT Madras
   **Flytxt**  
   (_June 2013 - December 2016_)  
   
-  Worked on projects related to customer segmentation in telecom domain and developed  novel algorithms for performing automatic intelligent grouping of subscribers. Designed interesting visualizations for leveraging value out of large structured/ unstructured data sources, which were later added to the visualization dashboard of the company's product
+  Worked on projects related to customer segmentation in telecom domain and developed novel algorithms for performing automatic intelligent grouping of subscribers. Designed interesting visualizations for leveraging value out of large structured/ unstructured data sources, which were later added to the visualization dashboard of the company's product
 
 ## Honors and Awards
-- Prime Minister's Research Fellowship (PMRF May 2020 lateral entry scheme)
+- Recipient of the prestigious Prime Minister's Research Fellowship
+- Euraxess Science Slam India 2024 Finalist (Top 4)
 - Second prize in the Engineering Sciences category of Saransh 2023, a national level competition for thesis presentation in 3 minutes, organized by Indian National Young Academy of Science (INYAS)
 - Part of the team that finished second in the Data Challenge held as a part of CODS-COMAD 2024 (11th ACM IKDD CODS and 29th COMAD)
 - Best Poster Award in the department of CSE at the Institute Research Scholars‘ Day 2022 in IIT Palakkad
@@ -102,7 +103,7 @@ IIT Madras
 - _Technical Writing (2023)_: Prepared the lesson plan, course materials and assignments for the sessions on Introduction to LaTeX and Beamer for first year post-graduate students in the department of CSE. Also conducted the sessions and evaluated the assignments submitted by the students.
 - _Introduction to Artificial Intelligence (2024)_: As the Head TA for the course, coordinated a team of 7 TAs in evaluating the submissions made by around 75 undergraduate students for 6 lab assignments. Also prepared the lab assignment on _Decision Trees_.
 
-  ## Service
+## Service
 - Chaired the session _Curriculum and Instruction_ at AIED 2022
 - Chief coordinator of the Computer Science and Engineering (CSE) Research Symposium 2023, IIT Palakkad
 - Department coordinator of the Institute Research Scholars Day 2022, IIT Palakkad
