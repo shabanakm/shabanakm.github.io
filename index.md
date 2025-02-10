@@ -33,7 +33,10 @@ Assigning concept tags to questions enables Intelligent tutoring systems (ITS) t
 concept tags associated with a given assessment item from explanation text. Using UST on the explanations generated, we show that the explanations indeed contain the expert-specified concept tags.
 
 ### Content sequencing
-Given a set of resources such as videos, worked out examples, etc. related to a given concept, find an optimal sequence of resources that gets a student to master the concept as quickly as possible
+**Under Review**
+
+Given a set of resources such as videos, worked out examples, etc. related to a given concept, find an optimal sequence of resources that maximizes the probability of a student mastering the concept within a time horizon *H*.
+
 
 <p align="center">
 <img src="images/contentSequence.png" width="450" height="150" />
