@@ -1,5 +1,5 @@
 ## About me
-I am a PhD research scholar in the department of Computer Science and Engineering at the Indian Institute of Technology Palakkad. My research focuses on personlizing education by applying AI based techniques for designing optimal activity/content delivery mechanisms tailored to suit individual learner requirements, thereby contributing to better quality of learning for the students.
+I am a final year PhD research scholar in the department of Computer Science and Engineering at the Indian Institute of Technology Palakkad. As a part of my theis work, I developed novel models and algorithms based on Artificial Intelligence (AI) for enabling students master a set of related concepts through adaptive sequencing of activities and content.
 
 [<img src="images/linkedin_logo.png" width="30" height="30">](https://www.linkedin.com/in/shabana-k-m/)
 &nbsp;
@@ -8,7 +8,7 @@ I am a PhD research scholar in the department of Computer Science and Engineerin
 [<img src="images/cv_logo.png" width="30" height="30">](https://raw.githubusercontent.com/shabanakm/shabanakm.github.io/main/Shabana_Resume.pdf)
 
 ## Research interests
-- Artificial intelligence in education
+- Artificial intelligence for education
 - Machine learning
 - Educational data mining
 
