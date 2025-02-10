@@ -1,5 +1,5 @@
 ## About me
-I am a final year PhD research scholar in the department of Computer Science and Engineering at the Indian Institute of Technology Palakkad. As a part of my theis work, I developed novel models and algorithms based on Artificial Intelligence (AI) for enabling students master a set of related concepts through adaptive sequencing of activities and content.
+I am a final year PhD research scholar in the department of Computer Science and Engineering at the Indian Institute of Technology Palakkad. As a part of my thesis work, I developed novel models and algorithms based on Artificial Intelligence (AI) for enabling students master a set of related concepts through adaptive sequencing of activities and content.
 
 [<img src="images/linkedin_logo.png" width="30" height="30">](https://www.linkedin.com/in/shabana-k-m/)
 &nbsp;
