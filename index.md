@@ -69,7 +69,7 @@ IIT Madras
   Worked on projects related to customer segmentation in telecom domain and developed novel algorithms for performing automatic intelligent grouping of subscribers. Designed interesting visualizations for leveraging value out of large structured/ unstructured data sources, which were later added to the visualization dashboard of the company's product
 
 ## Honors and Awards
-- Recipient of the prestigious Prime Minister's Research Fellowship
+- Recipient of the prestigious Prime Minister's Research Fellowship (PMRF)
 - Euraxess Science Slam India 2024 Finalist (Top 4)
 - Second prize in the Engineering Sciences category of Saransh 2023, a national level competition for thesis presentation in 3 minutes, organized by Indian National Young Academy of Science (INYAS)
 - Part of the team that finished second in the Data Challenge held as a part of CODS-COMAD 2024 (11th ACM IKDD CODS and 29th COMAD)
@@ -88,11 +88,11 @@ IIT Madras
 - Systems and methods for management of multi-perspective customer segments [US Patent 10,936,620, 2021](https://patents.google.com/patent/US10936620B2) (_**First inventor**_)
 
 ## Teaching experience
-- **Chief resource person at [Internzone - Introduction to Machine Learning](http://www.gecskp.ac.in/pdf/news/Internzone_Introduction_to_ML.pdf)**  
+- **Chief resource person for [Internzone - Introduction to Machine Learning](http://www.gecskp.ac.in/pdf/news/Internzone_Introduction_to_ML.pdf)**  
   IEEE Kerala Section  
   (_August 2021 - February 2022_)  
   
-  Conducted weekly one-hour sessions on basic machine learning algorithms, as a part of PMRF teaching requirements. Designed and delivered the course content as well as prepared weekly quizzes and programming assignments. [[Slides]](https://github.com/shabanakm/PMRF-Teaching-Material/tree/main/Introduction%20to%20Machine%20Learning)[[Recordings]](https://youtube.com/playlist?list=PLADq9YNYvGFhcVBftuRVc54nwlGL9jSjh&si=dKTutat_0EBoUcSS)
+  Conducted weekly one-hour online sessions on basic machine learning algorithms, as a part of PMRF teaching requirements. Designed and delivered the course content as well as prepared weekly quizzes and programming assignments. [[Slides]](https://github.com/shabanakm/PMRF-Teaching-Material/tree/main/Introduction%20to%20Machine%20Learning)[[Recordings]](https://youtube.com/playlist?list=PLADq9YNYvGFhcVBftuRVc54nwlGL9jSjh&si=dKTutat_0EBoUcSS)
   
 - **Introduction to Python programming, LaTeX**  
   Government Polytechnic College, Palakkad  
