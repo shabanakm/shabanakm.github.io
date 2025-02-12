@@ -92,7 +92,7 @@ IIT Madras
   IEEE Kerala Section  
   (_August 2021 - February 2022_)  
   
-  Conducted weekly one-hour online sessions on basic machine learning algorithms, as a part of PMRF teaching requirements. Designed and delivered the course content as well as prepared weekly quizzes and programming assignments. [[Slides]](https://github.com/shabanakm/PMRF-Teaching-Material/tree/main/Introduction%20to%20Machine%20Learning)[[Recordings]](https://youtube.com/playlist?list=PLADq9YNYvGFhcVBftuRVc54nwlGL9jSjh&si=dKTutat_0EBoUcSS)
+  Conducted weekly one-hour online sessions on basic machine learning algorithms for third and final year undergraduate engineering students from various colleges in Kerala. Designed and delivered the course content as well as prepared weekly quizzes and programming assignments. [[Slides]](https://github.com/shabanakm/PMRF-Teaching-Material/tree/main/Introduction%20to%20Machine%20Learning)[[Recordings]](https://youtube.com/playlist?list=PLADq9YNYvGFhcVBftuRVc54nwlGL9jSjh&si=dKTutat_0EBoUcSS)
   
 - **Introduction to Python programming, LaTeX**  
   Government Polytechnic College, Palakkad  
