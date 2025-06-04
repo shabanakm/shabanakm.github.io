@@ -1,5 +1,6 @@
 ## About me
-I am a final year PhD research scholar in the department of Computer Science and Engineering at the Indian Institute of Technology Palakkad. As a part of my thesis work, I developed novel models and algorithms based on Artificial Intelligence (AI) for helping students master a set of related concepts through adaptive sequencing of activities and content.
+I completed my PhD from the Indian Institute of Technology Palakkad under the guidance of Prof. Chandrashekar Lakshminarayanan (IIT Madras). My thesis **Mastering a curriculum through adaptive sequencing: AI based models and algorithms** makes contributions to three foundational research problems on personalized learning systems.[Thesis](phd_thesis.pdf)
+As a part of my thesis work, I developed novel models and algorithms based on Artificial Intelligence (AI) for helping students master a set of related concepts through adaptive sequencing of activities and content.
 
 [<img src="images/linkedin_logo.png" width="30" height="30">](https://www.linkedin.com/in/shabanakm/)
 &nbsp;
@@ -113,10 +114,10 @@ IIT Madras
 
 ## Education
 
-- **PhD**: Indian Institute of Technology Palakkad (_2019_ - )
+- **PhD**: Indian Institute of Technology Palakkad (_2019 - 2025_ )
 - **M.Tech**: National Insititue of Technology Calicut (_2011 - 2013_)
 - **B.Tech**: Amrita School of Engineering, Kollam (_2007 - 2011_)
   
 ## Contact
 
-111914007 [at] smail [dot] iitpkd [dot] ac [dot] in
+shabana [dot] meethian [at] gmail [dot] com
