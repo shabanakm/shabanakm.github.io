@@ -1,6 +1,5 @@
 ## About me
-I completed my PhD from the Indian Institute of Technology Palakkad under the guidance of Prof. Chandrashekar Lakshminarayanan (IIT Madras). My thesis **Mastering a curriculum through adaptive sequencing: AI based models and algorithms** makes contributions to three foundational research problems on personalized learning systems.[Thesis](phd_thesis.pdf)
-As a part of my thesis work, I developed novel models and algorithms based on Artificial Intelligence (AI) for helping students master a set of related concepts through adaptive sequencing of activities and content.
+I completed my PhD from the Indian Institute of Technology Palakkad under the guidance of Prof. Chandrashekar Lakshminarayanan (IIT Madras). As a part of my PhD work, we developed novel AI based models and techniques for three foundational problems in personalized learning systems. My [thesis](phd_thesis.pdf) contributes to the the problem of teaching a set of related topics, also referred to as a curriculum, to a student through adaptive sequencing of activities and learning resources.
 
 [<img src="images/linkedin_logo.png" width="30" height="30">](https://www.linkedin.com/in/shabanakm/)
 &nbsp;
@@ -13,7 +12,7 @@ As a part of my thesis work, I developed novel models and algorithms based on Ar
 - Machine learning
 - Educational data mining
 
-## Ongoing research work
+## PhD research work
 ### CurriculumTutor: a novel tutoring algorithm for mastering a curriculum using adaptive activity sequencing
 **Won the best paper award at AIED 2022** [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-11644-5_26)
 
@@ -42,13 +41,6 @@ Given a set of resources such as videos, worked out examples, etc. related to a 
 <p align="center">
 <img src="images/contentSequence.png" width="450" height="150" />
 </p>
-
-## Research advisor
-**Dr. Chandrashekar Lakshminarayanan**  
-Assistant Professor  
-Department of Data Science and AI  
-IIT Madras  
-[[Homepage]](https://sites.google.com/view/chandrashekar-lakshminarayanan)
 
 ## Publications
 1. **Shabana, K. M.**, Lakshminarayanan, C., & Anil, J. K. (2022). CurriculumTutor: An Adaptive Algorithm for Mastering a Curriculum. In International Conference on Artificial Intelligence in Education (pp. 319-331). Springer, Cham. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-11644-5_26) _Won the best paper award at AIED 2022: The 23rd International Conference on Artificial Intelligence in Education_
