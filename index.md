@@ -5,7 +5,7 @@ I completed my PhD from the Indian Institute of Technology Palakkad under the gu
 &nbsp;
 [<img src="images/scholar_logo.png" width="30" height="30">](https://scholar.google.com/citations?user=EEQU31YAAAAJ&hl=en/)
 &nbsp;
-[<img src="images/cv_logo.png" width="30" height="30">](Shabana_Resume.pdf)
+[<img src="images/cv_logo.png" width="30" height="30">](resume.pdf)
 
 ## Research interests
 - Artificial intelligence for education
