@@ -1,5 +1,5 @@
 ## About me
-I completed my PhD from the Indian Institute of Technology Palakkad under the guidance of Prof. Chandrashekar Lakshminarayanan (IIT Madras). As a part of my PhD work, we developed novel AI based models and techniques for three foundational problems in personalized learning systems. My [thesis](phd_thesis.pdf) contributes to the the problem of teaching a set of related topics, also referred to as a curriculum, to a student through adaptive sequencing of activities and learning resources.
+I completed my PhD from the Indian Institute of Technology Palakkad under the guidance of Prof. Chandrashekar Lakshminarayanan (IIT Madras). As a part of my PhD work, we developed novel AI based models and techniques for three foundational problems in personalized learning systems. My thesis contributes to the the problem of teaching a set of related topics, also referred to as a curriculum, to a student through adaptive sequencing of activities and learning resources.
 
 [<img src="images/linkedin_logo.png" width="30" height="30">](https://www.linkedin.com/in/shabanakm/)
 &nbsp;
