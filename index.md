@@ -62,7 +62,7 @@ Given a set of resources such as videos, worked out examples, etc. related to a 
   Worked on projects related to customer segmentation in telecom domain and developed novel algorithms for performing automatic intelligent grouping of subscribers. Designed interesting visualizations for leveraging value out of large structured/ unstructured data sources, which were later added to the visualization dashboard of the company's product
 
 ## Honors and Awards
-- Recipient of the prestigious Prime Minister's Research Fellowship (PMRF)
+- Recipient of the Prime Minister's Research Fellowship (PMRF)
 - Euraxess Science Slam India 2024 Finalist (Top 4)
 - Second prize in the Engineering Sciences category of Saransh 2023, a national level competition for thesis presentation in 3 minutes, organized by Indian National Young Academy of Science (INYAS)
 - Part of the team that finished second in the Data Challenge held as a part of CODS-COMAD 2024 (11th ACM IKDD CODS and 29th COMAD)
